@@ -1,0 +1,13 @@
+package pro.sky.java.coursework2.examinerservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Coursework2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Coursework2Application.class, args);
+	}
+
+}
